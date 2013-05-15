@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VentasGas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="boton1">Accesar</string>
+    <string name="Etiqueta1">Login</string>
+    <string name="ImagenLlave" />
+    <string name="title_activity_menu_principal">MenuPrincipalActivity</string>
+    <string name="title_activity_venta">VentaActivity</string>
+    <string name="title_activity_productos">ProductosActivity</string>
+    <string name="title_activity_vales">ValesActivity</string>
+    <string name="title_activity_clientes">ClientesActivity</string>
+    <string name="title_activity_gasolinera">GasolineraActivity</string>
+    <string name="titulo">Venta De Combustible</string>
+    <string name="logo" />
+    <string name="Etiqueta2">¿Qué desea hacer?</string>
+    <string name="title_activity_registrar_venta">RegistrarVentaActivity</string>
+    <string name="Etiqueta3">Registro de nueva venta</string>
+    <string name="Etiqueta4">Detalles de venta</string>
+    <string name="Etiqueta5">ID del empleado</string>
+    <string name="Etiqueta6">Nº cliente</string>
+    <string name="Etiqueta7">Sucursal</string>
+    <string name="Etiqueta8">Productos</string>
+    <color name="color1">#1B6C0F</color>
+    <string name="check1">Tipo Gasolina</string>
+    <string name="check2">Normal</string>
+    <string name="Etiqueta9">Lubricantes</string>
+    <string name="cantidad1">Cantidad (uni)</string>
+    <string name="check3">Premiun</string>
+    <string name="Etiqueta10">Vales De Descuento</string>
+    <string name="check4">Valor $20.00</string>
+    <string name="idvale20">ID del vale</string>
+    <string name="check5">Valor $10.00</string>
+    <string name="idvale10">ID del vale</string>
+    <string name="boton2">Calcular Monto</string>
+
+</resources>
